@@ -1,6 +1,6 @@
 Micro Project Work
 
-contact email : aniketdeytiu@gmail.com
+contact email : dibakarbera01@gmail.com
 
 LINK - https://dibakarbera01.github.io/jsonpowerdb/
 
